@@ -3,7 +3,7 @@ Documentação do trabalho
 
 Estrutura do Plano de Negócio para a Trihex
 
-*1. Capa*
+**1. Capa**
 
 Título: "Plano de Negócio - Trihex"
 
