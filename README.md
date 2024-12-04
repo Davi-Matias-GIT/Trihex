@@ -1,5 +1,6 @@
 # Trihex
 Documentação do trabalho
+
 netlifly
 
 Estrutura do Plano de Negócio para a Trihex
@@ -33,9 +34,7 @@ Técnico em Informática - Escola Estadual de Educação Profissional Manoel Man
 "Nosso público-alvo são jovens adultos e gamers que apreciam jogos independentes e estão em busca de novas experiências."
 
 -Concorrentes:
-Concorrente 1: Estúdio A, que desenvolve jogos de plataforma com forte apelo nostálgico.
-
-Concorrente 2: Estúdio B, conhecido por seus jogos de aventura com gráficos únicos e histórias envolventes.
+Não se tem um concorrente conhecido nessa área.
 
 -Diferenciais:
 Foco em narrativas profundas e jogabilidade inovadora, além de um forte engajamento com a comunidade através de feedback contínuo.
