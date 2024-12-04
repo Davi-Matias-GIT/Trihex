@@ -15,7 +15,7 @@ Curso e escola: Técnico em Informática - EEEP Manoel Mano.
 Logo: Insira a logo criada para a Trihex.
 
 
-*2. Resumo Executivo*
+**2. Resumo Executivo**
 
 Breve descrição do negócio:
 
@@ -26,7 +26,7 @@ Público-alvo: Jogadores de todas as idades que buscam jogos independentes com n
 Objetivos principais: Alcançar a publicação de pelo menos dois jogos no primeiro ano e estabelecer uma base de fãs leal.
 
 
-*3. Análise de Mercado*
+**3. Análise de Mercado**
 
 Público-alvo:
 "Nosso público-alvo são jovens adultos e gamers que apreciam jogos independentes e estão em busca de novas experiências."
@@ -40,7 +40,7 @@ Diferenciais:
 Foco em narrativas profundas e jogabilidade inovadora, além de um forte engajamento com a comunidade através de feedback contínuo.
 
 
-*4. Estrutura do Negócio*
+**4. Estrutura do Negócio**
 
 Nome do Negócio: Trihex
 
@@ -49,7 +49,7 @@ Localização: Virtual, com possibilidade de eventos presenciais para lançament
 Serviços/Produtos: Desenvolvimento de jogos digitais, consultoria em game design, e workshops para aspirantes a desenvolvedores.
 
 
-*5. Plano Operacional*
+**5. Plano Operacional**
 
 Funcionamento:
 "Funcionaremos de segunda a sexta, das 9h às 17h."
@@ -63,7 +63,7 @@ Lançamento do jogo.
 Equipe: Composta por desenvolvedores, designers gráficos, e um gerente de comunidade.
 
 
-*6. Plano Financeiro*
+**6. Plano Financeiro**
 
 Investimentos iniciais:
 "R$ 10.000 para software, hardware e marketing."
@@ -75,7 +75,7 @@ Projeção de lucros:
 "Estimamos um lucro de R$ 5.000 no primeiro mês após o lançamento do primeiro jogo."
 
 
-*7. Estratégia de Marketing*
+**7. Estratégia de Marketing**
 
 
 Divulgação:
@@ -85,7 +85,7 @@ Promoções:
 "Ofereceremos um desconto de lançamento de 20% no primeiro mês após o lançamento."
 
 
-*8. Metas e Avaliação*
+**8. Metas e Avaliação**
 
 Metas a curto prazo (6 meses):
 "Desenvolver um protótipo jogável e realizar testes beta com usuários."
