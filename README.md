@@ -1,5 +1,6 @@
 # Trihex
 Documentação do trabalho
+netlifly
 
 Estrutura do Plano de Negócio para a Trihex
 
@@ -23,7 +24,7 @@ Técnico em Informática - Escola Estadual de Educação Profissional Manoel Man
 
 -Público-alvo: Jogadores de todas as idades que buscam jogos independentes com narrativas criativas e jogabilidade única.
 
--Objetivos principais: Alcançar a publicação de pelo menos dois jogos no primeiro ano e estabelecer uma base de fãs leal.
+-Objetivos principais: Alcançar a publicação de pelo menos dois jogos no primeiro ano e estabelecer uma base de fãs leal que dê feedbacks construtivos para melhorar a nosso empresa.
 
 
 **3. Análise de Mercado**
