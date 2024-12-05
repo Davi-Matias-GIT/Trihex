@@ -1,8 +1,6 @@
 # Trihex
 Documentação do trabalho
 
-netlifly
-
 Estrutura do Plano de Negócio para a Trihex
 
 **1. Capa**
@@ -14,7 +12,8 @@ Francisco Davi Rodrigues Matias.
 04/12/2024.
 Técnico em Informática - Escola Estadual de Educação Profissional Manoel Mano.
 
--Logo:
+-Logo:![photo-Photoroom](https://github.com/user-attachments/assets/19a3d8cc-6593-4287-af25-c005f4f9355a)
+
 
 
 **2. Resumo Executivo**
