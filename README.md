@@ -13,6 +13,11 @@ Francisco Davi Rodrigues Matias.
 Técnico em Informática - Escola Estadual de Educação Profissional Manoel Mano.
 
 -Logo:
+
+
+
+
+
 ![photo-Photoroom](https://github.com/user-attachments/assets/19a3d8cc-6593-4287-af25-c005f4f9355a)
 
 
